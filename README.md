@@ -16,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## Deployment
 Deploy effortlessly on [Vercel](https://vercel.com/new). See the [deployment guide](https://nextjs.org/docs/app/building-your-application/deploying).
 ---
-Let me know if you'd like to expand or add specific sections!
+
